@@ -1,0 +1,4 @@
+npm install --save-exact react-redux@5.0.4 redux@3.7.2 redux-logger@3.0.1
+- redux is a predictable state management library to store the state.
+- react-redux makes the bindings between athe react logic and redux logic easy to manage.
+- redux-logger is a inspector which basically tells us the previous state's data i.e. actions,previous data. 
